@@ -1,0 +1,29 @@
+"Title:","Revenue by Sport from the College Athletics Database"
+"SubTitle:","All Institutions - Collegiate Sport: All Sports - Variable: Per Team for Men"
+"Time:","2006 - 2020"
+"Unit of Measure:","$","$","$","$","$"
+"Citation:","Office of Postsecondary Education, Office of Postsecondary Education (U.S. Department of Education) (2022-09-08). College Athletics: Revenue by Sport | Siena College, SUNY at Albany, The University of Alabama, University of Florida, University of Miami | All Sports | Per Team for Men, 2006 - 2020. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  069-001-012 doi:https://doi.org/10.6068/DP184779D658232"
+"ColumnCount:",6
+"RowCount:",15
+
+"Time","Siena College, All Sports, Per Team for Men ($)","SUNY at Albany, All Sports, Per Team for Men ($)","The University of Alabama, All Sports, Per Team for Men ($)","University of Florida, All Sports, Per Team for Men ($)","University of Miami, All Sports, Per Team for Men ($)"
+"2006",1402132,1660447,1121258,2686079,1332301
+"2007",1435391,1956362,789172,1355923,1807239
+"2008",1638553,2260942,777608,1525896,2269156
+"2009",1857126,2314158,619386,1375526,2362268
+"2010",2122803,2295796,665254,1659168,2303946
+"2011",2193661,2231590,744234,2980587,2318553
+"2012",2336993,2488568,819326,1825017,2646546
+"2013",2367899,2654697,3216522,1262275,2773778
+"2014",2452223,2727731,1199258,2021094,2984353
+"2015",3201771,2792958,2029058,1654613,2968201
+"2016",2682086,3149966,2113599,1597520,3205292
+"2017",3011857,3488640,1994954,1697679,6837013
+"2018",2779139,3480583,2836755,1422157,8610807
+"2019",2801897,3390057,2263308,997440,7724547
+"2020",2590761,2655187,1708903,1881459,8202726
+
+
+
+"Publisher:", "Office of Postsecondary Education (U.S. Department of Education)"
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
