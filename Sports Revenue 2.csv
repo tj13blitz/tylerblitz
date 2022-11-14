@@ -1,0 +1,29 @@
+"Title:","Revenue by Sport from the College Athletics Database"
+"SubTitle:","All Institutions - Variable: Per Team for Men"
+"Time:","2006 - 2020"
+"Unit of Measure:","$","$","$","$","$","$","$","$","$","$","$","$","$","$","$","$","$"
+"Citation:","Office of Postsecondary Education, Office of Postsecondary Education (U.S. Department of Education) (2022-09-08). College Athletics: Revenue by Sport | Siena College, SUNY at Albany, The University of Alabama, University of Florida, University of Miami | All Sports | Baseball | Basketball | Lacrosse | Per Team for Men, 2006 - 2020. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  069-001-012 doi:https://doi.org/10.6068/DP18477B1FA0E36"
+"ColumnCount:",18
+"RowCount:",15
+
+"Time","Siena College, All Sports, Per Team for Men ($)","Siena College, Baseball, Per Team for Men ($)","Siena College, Basketball, Per Team for Men ($)","Siena College, Lacrosse, Per Team for Men ($)","SUNY at Albany, All Sports, Per Team for Men ($)","SUNY at Albany, Baseball, Per Team for Men ($)","SUNY at Albany, Basketball, Per Team for Men ($)","SUNY at Albany, Lacrosse, Per Team for Men ($)","The University of Alabama, All Sports, Per Team for Men ($)","The University of Alabama, Baseball, Per Team for Men ($)","The University of Alabama, Basketball, Per Team for Men ($)","University of Florida, All Sports, Per Team for Men ($)","University of Florida, Baseball, Per Team for Men ($)","University of Florida, Basketball, Per Team for Men ($)","University of Miami, All Sports, Per Team for Men ($)","University of Miami, Baseball, Per Team for Men ($)","University of Miami, Basketball, Per Team for Men ($)"
+"2006",1402132,,,,1660447,,,,1121258,,,2686079,,,1332301,,
+"2007",1435391,,,,1956362,,,,789172,,,1355923,,,1807239,,
+"2008",1638553,,,,2260942,,,,777608,,,1525896,,,2269156,,
+"2009",1857126,644556,2275880,422173,2314158,482829,1519889,727110,619386,354314,10766327,1375526,988759,10184136,2362268,1854090,7081121
+"2010",2122803,652976,2211650,510325,2295796,484218,1426370,724031,665254,430441,11016184,1659168,1164619,9930796,2303946,1747873,7394396
+"2011",2193661,689064,2293234,539017,2231590,485060,1650415,696624,744234,440529,11770736,2980587,2201150,10186778,2318553,1787842,9436615
+"2012",2336993,658656,2668068,673013,2488568,537310,1718707,734112,819326,469540,12185695,1825017,1033715,13393910,2646546,1891723,8710238
+"2013",2367899,671252,2802018,636031,2654697,546976,1818628,777206,3216522,2634232,14800313,1262275,970500,10604524,2773778,1979369,7902331
+"2014",2452223,685460,2516769,747151,2727731,582444,2047143,926850,1199258,556783,12780576,2021094,1405452,10407574,2984353,1818194,6759936
+"2015",3201771,1317174,3083128,820868,2792958,600392,2037503,860587,2029058,1134040,14446339,1654613,1316727,13290354,2968201,1738309,6475314
+"2016",2682086,612210,3102278,818004,3149966,642023,2217109,1060620,2113599,1182296,15003656,1597520,1323053,14200425,3205292,1927197,10868814
+"2017",3011857,611714,3579394,1000196,3488640,675867,1990718,1222177,1994954,1191224,15298808,1697679,1463022,11460512,6837013,3725691,8603153
+"2018",2779139,618591,3219292,827321,3480583,682615,2109818,1230956,2836755,2016412,16028795,1422157,1141246,11943413,8610807,4958396,9988284
+"2019",2801897,671718,2982539,848130,3390057,740975,2135824,1044149,2263308,1513054,14722223,997440,615314,11061415,7724547,4492894,9209237
+"2020",2590761,636864,1990098,153875,2655187,604340,1784503,839614,1708903,792708,13721815,1881459,1705175,9383750,8202726,4733962,7643768
+
+
+
+"Publisher:", "Office of Postsecondary Education (U.S. Department of Education)"
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
